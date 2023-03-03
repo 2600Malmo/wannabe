@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Introduction](README.md)
-* [Learner](so-you-want-to-become-a/learner.md)
+* [Disclaimer](Disclaimer.md)
 
 ## So, you want to become a&#x20;
 
