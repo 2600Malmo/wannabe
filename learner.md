@@ -1,6 +1,6 @@
 # Disclaimer
 
-There are a lot of debates about what makes you a professional or makes you eligible to call yourself let's say a developer. Is it a degree that you need in a certain university? Is it the number of years you work in the industry? A certification? Number of stars on GitHub, CVEs under your belt?&#x20;
+There are lots of debates about what makes you a professional or makes you eligible to call yourself let's say a developer. Is it a degree that you need in a certain university? Is it the number of years you work in the industry? A certification? Number of stars on GitHub, CVEs under your belt?&#x20;
 
 We don't know, and in fact it doesn't matter. For simplicity, we will define it as something clear.&#x20;
 

@@ -1,8 +1,8 @@
 # Table of contents
 
 * [Introduction](README.md)
+* [Learner](so-you-want-to-become-a/learner.md)
 
-## 🤓 So, you want to become a&#x20;
+## So, you want to become a&#x20;
 
-* [Disclaimer](so-you-want-to-become-a/disclaimer.md)
 * [Pentester](so-you-want-to-become-a/penetration-testing.md)
