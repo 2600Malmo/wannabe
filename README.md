@@ -7,7 +7,7 @@ coverY: 0
 
 # Introduction
 
-Wannabe is a community effort made by 2600 Malmö community to try to demystify learning paths within the modern tech industry.
+Wannabe is a community effort to try to demystify learning paths within the modern tech industry.
 
 We are a group of enthusiasts who spend countless hours in total figuring out those paths for different areas of the industry and want to give it back to the community.
 

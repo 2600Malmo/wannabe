@@ -9,12 +9,9 @@ However, materials like this one could help you to grasp the experience of sever
 Another disclaimer - penetration testing is not an entry level job by itself. You surely can get a job as a junior pentester, but the bar of all the knowledge you need get before dipping your toes into exploitation side of things is high. There are examples of folks getting a job with no former background other than pentest certifications and courses, but it's a hard way of doing this.&#x20;
 
 Despite what you can read online on that - you don't have to work as a developer or a helpdesk/SOC specialist for X number of years, but if you do, you will help yourself big time. \
-A common list of skills that would be a prerequisite for the pentest job are including but not limited to:\
-\- programming knowledge (be familiar with at least one language)\
-\- be familiar with networks\
-\- be familiar with different operation systems, know how they work, and what could go wrong
+If you at the beginning of your journey, check out the following page:
 
-If you lack any of those skills, you will want to get them first before you move on. &#x20;
+[absolute-basics.md](absolute-basics.md "mention")
 
 ## Education
 
