@@ -48,7 +48,6 @@ There are also a ton of videos on YouTube, articles, and places like Medium, blo
 
 As we already mentioned OSCP as a baseline you might want to aim at, there are materials moderated by the community that could help you get there. \
 
-
 For example, there is a list of the vulnerable machines that you need to be able to crack to make sure you are ready for the exam. Created and curated by Tj\_Null:
 
 {% embed url="https://docs.google.com/spreadsheets/u/1/d/1dwSMIAPIam0PuRBkCiDI88pU3yzrqqHkDtBngUHNCw8/htmlview" %}
@@ -56,5 +55,15 @@ For example, there is a list of the vulnerable machines that you need to be able
 There is also a YouTube playlist of ippsec going through the HackTheBox section of it, so you could grasp his methodology and the way of working:
 
 {% embed url="https://www.youtube.com/watch?v=2DqdPcbYcy8&list=PLidcsTyj9JXK-fnabFLVEvHinQ14Jy5tf" %}
+
+Some people are learning better by doing, some rememberr things better if they watch or read it. Find what works for you. You can learn a ton by just reading writeups of other people, or watching a live recordings of them on YouTube, similarly to what ippsec is doing in the link above. Keep in mind that you would need to apply your newly acquiredd knowledge on practice time to time. If you are spending 100% of your time just reading or watching writeups you would increase the amount of things you are aware of, but without practice by actually doing these things yourself for a long time you would most likely not be able to reproduce things that you saw. 
+Again, TryHackMe and HackTheBox are ideal for this. 
+
+Ippsec also created a great tool to help you get started with applying your theoretical knowledge to practice. 
+
+{% embed url="https://ippsec.rocks/" %}
+
+This is a dynamic search through the library of all his videos, and they are covering a lot. Most likely if you are doing a HackTheBox machine that is utilizing something you never seen before it could be a good idea to search in there. You not only grasp a hands-on experience of another person, but can try to do the same yourself in a guided matter. 
+
 
 ### This article will be updated soon
