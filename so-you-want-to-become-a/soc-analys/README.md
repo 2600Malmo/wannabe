@@ -1,3 +1,0 @@
-# SOC analys
-
-Lorem ipsum

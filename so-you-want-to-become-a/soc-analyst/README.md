@@ -1,4 +1,3 @@
-# SOC analyst
+# SOC analys
 
-## What you need to know&#x20;
-
+Lorem ipsum
