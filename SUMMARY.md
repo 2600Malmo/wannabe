@@ -7,4 +7,5 @@
 
 * [Pentester](so-you-want-to-become-a/penetration-testing/README.md)
   * [Absolute basics](so-you-want-to-become-a/penetration-testing/absolute-basics.md)
-* [SOC analys](so-you-want-to-become-a/soc-analys.md)
+* [SOC analys](so-you-want-to-become-a/soc-analys/README.md)
+  * [Resources](so-you-want-to-become-a/soc-analys/resources.md)
